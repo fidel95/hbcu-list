@@ -1,0 +1,737 @@
+[
+  {
+    "School": "Alabama A&M University",
+    "City": "Normal",
+    "State/Territory": "Alabama",
+    "Founded": "1875",
+    "Type": "Public"
+  },
+  {
+    "School": "Alabama State University",
+    "City": "Montgomery",
+    "State/Territory": "Alabama",
+    "Founded": "1867",
+    "Type": "Public"
+  },
+  {
+    "School": "Albany State University",
+    "City": "Albany",
+    "State/Territory": "Georgia",
+    "Founded": "1903",
+    "Type": "Public"
+  },
+  {
+    "School": "Alcorn State University",
+    "City": "Lorman",
+    "State/Territory": "Mississippi",
+    "Founded": "1871",
+    "Type": "Public"
+  },
+  {
+    "School": "Allen University",
+    "City": "Columbia",
+    "State/Territory": "South Carolina",
+    "Founded": "1870",
+    "Type": "Private"
+  },
+  {
+    "School": "American Baptist College",
+    "City": "Nashville",
+    "State/Territory": "Tennessee",
+    "Founded": "1924",
+    "Type": "Private"
+  },
+  {
+    "School": "University of Arkansas at Pine Bluff",
+    "City": "Pine Bluff",
+    "State/Territory": "Arkansas",
+    "Founded": "1873",
+    "Type": "Public"
+  },
+  {
+    "School": "Arkansas Baptist College",
+    "City": "Little Rock",
+    "State/Territory": "Arkansas",
+    "Founded": "1884",
+    "Type": "Private"
+  },
+  {
+    "School": "Barber-Scotia College",
+    "City": "Concord",
+    "State/Territory": "North Carolina",
+    "Founded": "1867",
+    "Type": "Private"
+  },
+  {
+    "School": "Benedict College",
+    "City": "Columbia",
+    "State/Territory": "South Carolina",
+    "Founded": "1870",
+    "Type": "Private"
+  },
+  {
+    "School": "Bennett College",
+    "City": "Greensboro",
+    "State/Territory": "North Carolina",
+    "Founded": "1873",
+    "Type": "Private"
+  },
+  {
+    "School": "Bethune-Cookman University",
+    "City": "Daytona Beach",
+    "State/Territory": "Florida",
+    "Founded": "1904",
+    "Type": "Private"
+  },
+  {
+    "School": "Bishop State Community College",
+    "City": "Mobile",
+    "State/Territory": "Alabama",
+    "Founded": "1927",
+    "Type": "Public"
+  },
+  {
+    "School": "Bluefield State College",
+    "City": "Bluefield",
+    "State/Territory": "West Virginia",
+    "Founded": "1895",
+    "Type": "Public"
+  },
+  {
+    "School": "Bowie State University",
+    "City": "Bowie",
+    "State/Territory": "Maryland",
+    "Founded": "1865",
+    "Type": "Public"
+  },
+  {
+    "School": "Central State University",
+    "City": "Wilberforce",
+    "State/Territory": "Ohio",
+    "Founded": "1887",
+    "Type": "Public"
+  },
+  {
+    "School": "Cheyney University of Pennsylvania",
+    "City": "Cheyney",
+    "State/Territory": "Pennsylvania",
+    "Founded": "1837",
+    "Type": "Public"
+  },
+  {
+    "School": "Claflin University",
+    "City": "Orangeburg",
+    "State/Territory": "South Carolina",
+    "Founded": "1869",
+    "Type": "Private"
+  },
+  {
+    "School": "Clark Atlanta University",
+    "City": "Atlanta",
+    "State/Territory": "Georgia",
+    "Founded": "1865",
+    "Type": "Private"
+  },
+  {
+    "School": "Clinton College",
+    "City": "Rock Hill",
+    "State/Territory": "South Carolina",
+    "Founded": "1894",
+    "Type": "Private"
+  },
+  {
+    "School": "Coahoma Community College",
+    "City": "Coahoma County",
+    "State/Territory": "Mississippi",
+    "Founded": "1924",
+    "Type": "Public"
+  },
+  {
+    "School": "Coppin State University",
+    "City": "Baltimore",
+    "State/Territory": "Maryland",
+    "Founded": "1900",
+    "Type": "Public"
+  },
+  {
+    "School": "Delaware State University",
+    "City": "Dover",
+    "State/Territory": "Delaware",
+    "Founded": "1891",
+    "Type": "Public"
+  },
+  {
+    "School": "Denmark Technical College",
+    "City": "Denmark",
+    "State/Territory": "South Carolina",
+    "Founded": "1947",
+    "Type": "Public"
+  },
+  {
+    "School": "Dillard University",
+    "City": "New Orleans",
+    "State/Territory": "Louisiana",
+    "Founded": "1869",
+    "Type": "Private"
+  },
+  {
+    "School": "University of the District of Columbia",
+    "City": "Washington",
+    "State/Territory": "District of Columbia",
+    "Founded": "1851",
+    "Type": "Public"
+  },
+  {
+    "School": "Edward Waters College",
+    "City": "Jacksonville",
+    "State/Territory": "Florida",
+    "Founded": "1866",
+    "Type": "Private"
+  },
+  {
+    "School": "Elizabeth City State University",
+    "City": "Elizabeth City",
+    "State/Territory": "North Carolina",
+    "Founded": "1891",
+    "Type": "Public"
+  },
+  {
+    "School": "Fayetteville State University",
+    "City": "Fayetteville",
+    "State/Territory": "North Carolina",
+    "Founded": "1867",
+    "Type": "Public"
+  },
+  {
+    "School": "Fisk University",
+    "City": "Nashville",
+    "State/Territory": "Tennessee",
+    "Founded": "1866",
+    "Type": "Private"
+  },
+  {
+    "School": "Florida A&M University",
+    "City": "Tallahassee",
+    "State/Territory": "Florida",
+    "Founded": "1887",
+    "Type": "Public"
+  },
+  {
+    "School": "Florida Memorial University",
+    "City": "Miami Gardens",
+    "State/Territory": "Florida",
+    "Founded": "1879",
+    "Type": "Private"
+  },
+  {
+    "School": "Fort Valley State University",
+    "City": "Fort Valley",
+    "State/Territory": "Georgia",
+    "Founded": "1895",
+    "Type": "Public"
+  },
+  {
+    "School": "Gadsden State Community College",
+    "City": "Gadsden",
+    "State/Territory": "Alabama",
+    "Founded": "1925",
+    "Type": "Public"
+  },
+  {
+    "School": "Grambling State University",
+    "City": "Grambling",
+    "State/Territory": "Louisiana",
+    "Founded": "1901",
+    "Type": "Public"
+  },
+  {
+    "School": "Hampton University",
+    "City": "Hampton",
+    "State/Territory": "Virginia",
+    "Founded": "1868",
+    "Type": "Private"
+  },
+  {
+    "School": "Harris-Stowe State University",
+    "City": "St. Louis",
+    "State/Territory": "Missouri",
+    "Founded": "1857",
+    "Type": "Public"
+  },
+  {
+    "School": "Hinds Community College at Utica",
+    "City": "Utica",
+    "State/Territory": "Mississippi",
+    "Founded": "1903",
+    "Type": "Public"
+  },
+  {
+    "School": "Howard University",
+    "City": "Washington",
+    "State/Territory": "District of Columbia",
+    "Founded": "1867",
+    "Type": "Private"
+  },
+  {
+    "School": "Huston-Tillotson University",
+    "City": "Austin",
+    "State/Territory": "Texas",
+    "Founded": "1875",
+    "Type": "Private"
+  },
+  {
+    "School": "Interdenominational Theological Center",
+    "City": "Atlanta",
+    "State/Territory": "Georgia",
+    "Founded": "1958",
+    "Type": "Private"
+  },
+  {
+    "School": "J. F. Drake State Technical College",
+    "City": "Huntsville",
+    "State/Territory": "Alabama",
+    "Founded": "1961",
+    "Type": "Public"
+  },
+  {
+    "School": "Jackson State University",
+    "City": "Jackson",
+    "State/Territory": "Mississippi",
+    "Founded": "1877",
+    "Type": "Public"
+  },
+  {
+    "School": "Jarvis Christian College",
+    "City": "Hawkins",
+    "State/Territory": "Texas",
+    "Founded": "1912",
+    "Type": "Private"
+  },
+  {
+    "School": "Johnson C. Smith University",
+    "City": "Charlotte",
+    "State/Territory": "North Carolina",
+    "Founded": "1867",
+    "Type": "Private"
+  },
+  {
+    "School": "Kentucky State University",
+    "City": "Frankfort",
+    "State/Territory": "Kentucky",
+    "Founded": "1886",
+    "Type": "Public"
+  },
+  {
+    "School": "Knoxville College",
+    "City": "Knoxville (Mechanicsville)",
+    "State/Territory": "Tennessee",
+    "Founded": "1875",
+    "Type": "Private"
+  },
+  {
+    "School": "Lane College",
+    "City": "Jackson",
+    "State/Territory": "Tennessee",
+    "Founded": "1882",
+    "Type": "Private"
+  },
+  {
+    "School": "Langston University",
+    "City": "Langston",
+    "State/Territory": "Oklahoma",
+    "Founded": "1897",
+    "Type": "Public"
+  },
+  {
+    "School": "Lawson State Community College",
+    "City": "Bessemer",
+    "State/Territory": "Alabama",
+    "Founded": "1949",
+    "Type": "Public"
+  },
+  {
+    "School": "LeMoyne-Owen College",
+    "City": "Memphis",
+    "State/Territory": "Tennessee",
+    "Founded": "1862",
+    "Type": "Private"
+  },
+  {
+    "School": "Lincoln University",
+    "City": "Chester County",
+    "State/Territory": "Pennsylvania",
+    "Founded": "1854",
+    "Type": "The first degree-granting HBCU"
+  },
+  {
+    "School": "Lincoln University of Missouri",
+    "City": "Jefferson City",
+    "State/Territory": "Missouri",
+    "Founded": "1866",
+    "Type": "Public"
+  },
+  {
+    "School": "Livingstone College",
+    "City": "Salisbury",
+    "State/Territory": "North Carolina",
+    "Founded": "1879",
+    "Type": "Private"
+  },
+  {
+    "School": "University of Maryland Eastern Shore",
+    "City": "Princess Anne",
+    "State/Territory": "Maryland",
+    "Founded": "1886",
+    "Type": "Public"
+  },
+  {
+    "School": "Meharry Medical College",
+    "City": "Nashville",
+    "State/Territory": "Tennessee",
+    "Founded": "1876",
+    "Type": "Private"
+  },
+  {
+    "School": "Miles College",
+    "City": "Fairfield",
+    "State/Territory": "Alabama",
+    "Founded": "1898",
+    "Type": "Private"
+  },
+  {
+    "School": "Mississippi Valley State University",
+    "City": "Itta Bena",
+    "State/Territory": "Mississippi",
+    "Founded": "1950",
+    "Type": "Public"
+  },
+  {
+    "School": "Morehouse College",
+    "City": "Atlanta",
+    "State/Territory": "Georgia",
+    "Founded": "1867",
+    "Type": "Private"
+  },
+  {
+    "School": "Morehouse School of Medicine",
+    "City": "Atlanta",
+    "State/Territory": "Georgia",
+    "Founded": "1975",
+    "Type": "Private"
+  },
+  {
+    "School": "Morgan State University",
+    "City": "Baltimore",
+    "State/Territory": "Maryland",
+    "Founded": "1867",
+    "Type": "Public"
+  },
+  {
+    "School": "Morris Brown College",
+    "City": "Atlanta",
+    "State/Territory": "Georgia",
+    "Founded": "1881",
+    "Type": "Private"
+  },
+  {
+    "School": "Morris College",
+    "City": "Sumter",
+    "State/Territory": "South Carolina",
+    "Founded": "1908",
+    "Type": "Private"
+  },
+  {
+    "School": "Norfolk State University",
+    "City": "Norfolk",
+    "State/Territory": "Virginia",
+    "Founded": "1935",
+    "Type": "Public"
+  },
+  {
+    "School": "North Carolina Agricultural & Technical State University",
+    "City": "Greensboro",
+    "State/Territory": "North Carolina",
+    "Founded": "1891",
+    "Type": "Public"
+  },
+  {
+    "School": "North Carolina Central University",
+    "City": "Durham",
+    "State/Territory": "North Carolina",
+    "Founded": "1910",
+    "Type": "Public"
+  },
+  {
+    "School": "Oakwood University",
+    "City": "Huntsville",
+    "State/Territory": "Alabama",
+    "Founded": "1896",
+    "Type": "Private"
+  },
+  {
+    "School": "Paine College",
+    "City": "Augusta",
+    "State/Territory": "Georgia",
+    "Founded": "1882",
+    "Type": "Private"
+  },
+  {
+    "School": "Paul Quinn College",
+    "City": "Dallas",
+    "State/Territory": "Texas",
+    "Founded": "1872",
+    "Type": "Private"
+  },
+  {
+    "School": "Payne Theological Seminary",
+    "City": "Wilberforce",
+    "State/Territory": "Ohio",
+    "Founded": "1856",
+    "Type": "Private"
+  },
+  {
+    "School": "Philander Smith College",
+    "City": "Little Rock",
+    "State/Territory": "Arkansas",
+    "Founded": "1877",
+    "Type": "Private"
+  },
+  {
+    "School": "Prairie View A&M University",
+    "City": "Prairie View",
+    "State/Territory": "Texas",
+    "Founded": "1876",
+    "Type": "Public"
+  },
+  {
+    "School": "Rust College",
+    "City": "Holly Springs",
+    "State/Territory": "Mississippi",
+    "Founded": "1866",
+    "Type": "Private"
+  },
+  {
+    "School": "Savannah State University",
+    "City": "Savannah",
+    "State/Territory": "Georgia",
+    "Founded": "1890",
+    "Type": "Public"
+  },
+  {
+    "School": "Selma University",
+    "City": "Selma",
+    "State/Territory": "Alabama",
+    "Founded": "1878",
+    "Type": "Private"
+  },
+  {
+    "School": "Shaw University",
+    "City": "Raleigh",
+    "State/Territory": "North Carolina",
+    "Founded": "1865",
+    "Type": "Private"
+  },
+  {
+    "School": "Shorter College",
+    "City": "North Little Rock",
+    "State/Territory": "Arkansas",
+    "Founded": "1886",
+    "Type": "Private"
+  },
+  {
+    "School": "Shelton State Community College",
+    "City": "Tuscaloosa",
+    "State/Territory": "Alabama",
+    "Founded": "1952",
+    "Type": "Public"
+  },
+  {
+    "School": "Simmons College",
+    "City": "Louisville",
+    "State/Territory": "Kentucky",
+    "Founded": "1869",
+    "Type": "Private"
+  },
+  {
+    "School": "South Carolina State University",
+    "City": "Orangeburg",
+    "State/Territory": "South Carolina",
+    "Founded": "1896",
+    "Type": "Public"
+  },
+  {
+    "School": "Southern University at New Orleans",
+    "City": "New Orleans",
+    "State/Territory": "Louisiana",
+    "Founded": "1959",
+    "Type": "Public"
+  },
+  {
+    "School": "Southern University at Shreveport",
+    "City": "Shreveport",
+    "State/Territory": "Louisiana",
+    "Founded": "1967",
+    "Type": "Public"
+  },
+  {
+    "School": "Southern University and A&M College",
+    "City": "Baton Rouge",
+    "State/Territory": "Louisiana",
+    "Founded": "1880",
+    "Type": "Public"
+  },
+  {
+    "School": "Southwestern Christian College",
+    "City": "Terrell",
+    "State/Territory": "Texas",
+    "Founded": "1948",
+    "Type": "Private"
+  },
+  {
+    "School": "Spelman College",
+    "City": "Atlanta",
+    "State/Territory": "Georgia",
+    "Founded": "1881",
+    "Type": "Private"
+  },
+  {
+    "School": "St. Augustine's University",
+    "City": "Raleigh",
+    "State/Territory": "North Carolina",
+    "Founded": "1867",
+    "Type": "Private"
+  },
+  {
+    "School": "St. Philip's College",
+    "City": "San Antonio",
+    "State/Territory": "Texas",
+    "Founded": "1898",
+    "Type": "Public"
+  },
+  {
+    "School": "Stillman College",
+    "City": "Tuscaloosa",
+    "State/Territory": "Alabama",
+    "Founded": "1876",
+    "Type": "Private"
+  },
+  {
+    "School": "Talladega College",
+    "City": "Talladega County",
+    "State/Territory": "Alabama",
+    "Founded": "1867",
+    "Type": "Private"
+  },
+  {
+    "School": "Tennessee State University",
+    "City": "Nashville",
+    "State/Territory": "Tennessee",
+    "Founded": "1912",
+    "Type": "Public"
+  },
+  {
+    "School": "Texas College",
+    "City": "Tyler",
+    "State/Territory": "Texas",
+    "Founded": "1894",
+    "Type": "Private"
+  },
+  {
+    "School": "Texas Southern University",
+    "City": "Houston",
+    "State/Territory": "Texas",
+    "Founded": "1927",
+    "Type": "Public"
+  },
+  {
+    "School": "Tougaloo College",
+    "City": "Hinds County",
+    "State/Territory": "Mississippi",
+    "Founded": "1869",
+    "Type": "Private"
+  },
+  {
+    "School": "Trenholm State Technical College",
+    "City": "Montgomery",
+    "State/Territory": "Alabama",
+    "Founded": "1947",
+    "Type": "Public"
+  },
+  {
+    "School": "Tuskegee University",
+    "City": "Tuskegee",
+    "State/Territory": "Alabama",
+    "Founded": "1881",
+    "Type": "Private"
+  },
+  {
+    "School": "University of the Virgin Islands",
+    "City": "St. Croix & St. Thomas",
+    "State/Territory": "United States Virgin Islands",
+    "Founded": "1962",
+    "Type": "Public"
+  },
+  {
+    "School": "Virginia State University",
+    "City": "Petersburg",
+    "State/Territory": "Virginia",
+    "Founded": "1882",
+    "Type": "Public"
+  },
+  {
+    "School": "Virginia Union University",
+    "City": "Richmond",
+    "State/Territory": "Virginia",
+    "Founded": "1865",
+    "Type": "Private"
+  },
+  {
+    "School": "Virginia University of Lynchburg",
+    "City": "Lynchburg",
+    "State/Territory": "Virginia",
+    "Founded": "1886",
+    "Type": "Private"
+  },
+  {
+    "School": "Voorhees College",
+    "City": "Denmark",
+    "State/Territory": "South Carolina",
+    "Founded": "1897",
+    "Type": "Private"
+  },
+  {
+    "School": "West Virginia State University",
+    "City": "Institute",
+    "State/Territory": "West Virginia",
+    "Founded": "1891",
+    "Type": "Public"
+  },
+  {
+    "School": "Wilberforce University",
+    "City": "Wilberforce",
+    "State/Territory": "Ohio",
+    "Founded": "1856",
+    "Type": "Private"
+  },
+  {
+    "School": "Wiley College",
+    "City": "Marshall",
+    "State/Territory": "Texas",
+    "Founded": "1873",
+    "Type": "Private"
+  },
+  {
+    "School": "Winston-Salem State University",
+    "City": "Winston-Salem",
+    "State/Territory": "North Carolina",
+    "Founded": "1892",
+    "Type": "Public"
+  },
+  {
+    "School": "Xavier University of Louisiana",
+    "City": "New Orleans",
+    "State/Territory": "Louisiana",
+    "Founded": "1915",
+    "Type": "Private"
+  }
+]

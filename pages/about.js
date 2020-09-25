@@ -1,15 +1,16 @@
-import Table from "./components/table"
 import Footer from "./components/footer"
 import Menu from "./components/menu"
+import Author from "./components/author"
 
-export default function Home() {
-  return (
-<body>
+export default function About(){
+    return(
+        <body>
   <section class="section">
   <Menu/>
-  <Table/>
+  <Author/>
   </section>
   <Footer/>
   </body>
-  )
+
+    )
 }
