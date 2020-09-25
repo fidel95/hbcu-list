@@ -17,7 +17,7 @@ export default function Author(){
       
           <div class="content">
             Hello, I am a student at Delaware State University #HBCU pursuing a Bachelors Degree in Integrated Studies (Accounting and Management) I am also an undocumented student (<strong>Dreamer</strong>) on a full ride thanks to <a href="https://thedream.us">thedream.us</a> <br />
-            Currently I am self-learning Programming, my goal is to eventually become a software developer (Full-Stack).
+            Currently I am self-learning Programming, my goal is to eventually become Software Developer (Full-Stack).
             <br/>
             <time datetime="2020-10-24">11:35 PM - 24 September 2020</time>
           </div>
